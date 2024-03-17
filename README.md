@@ -1,2 +1,1 @@
-# react-ref-collection
-# react-repos-collection
+npm create vite@latest
